@@ -54,5 +54,6 @@ Here is the code in details:
 
 
 And here is the link of the project in google colab:
+
 https://colab.research.google.com/drive/1EfEVqsbl2wuemtuUNcs2oErw0fepg0Oo?usp=sharing
 
